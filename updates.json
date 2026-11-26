@@ -36,6 +36,36 @@
   "date": "2026-11-26"
  },
  {
+  "title": "{{'ExaminationAndInterviewOnly_HM' | translate }}",
+  "url": "https://uppsc.up.nic.in/PublicPages/Recruitment_Details.aspx?ID=EI",
+  "source": "UPPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "{{'PreExamMainExamInt_HM' | translate }}",
+  "url": "https://uppsc.up.nic.in/PublicPages/Recruitment_Details.aspx?ID=EIM",
+  "source": "UPPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "Previous Exam Question Paper(s)",
+  "url": "https://jpsc.gov.in/sam_question_paper.php",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "Recent Examinations/Interview",
+  "url": "https://jpsc.gov.in/Examination-Links.php",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "Examination Calendar-2026",
+  "url": "https://jpsc.gov.in/data/Exam_Calendar_2026_dtd_09_07_2026.pdf",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
   "title": "SBI Recruitment Of Specialist Cadre Officers on Regular Basis Registration From 20-Nov-2026",
   "url": "https://ibpsreg.ibps.in/sbifteoct26/",
   "source": "IBPS",
@@ -1167,36 +1197,6 @@
   "title": "Advertisement",
   "url": "https://bpsc.bihar.gov.in",
   "source": "BPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "{{'Examinations_HM' | translate }}",
-  "url": "https://uppsc.up.nic.in/",
-  "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "{{'ActiveExam_HM' | translate }}",
-  "url": "https://uppsc.up.nic.in/FooterPages/Upcoming-Exams",
-  "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "{{'ExamCal_HM' | translate }}",
-  "url": "https://uppsc.up.nic.in/PublicPages/Examinations_Details.aspx?ID=EC",
-  "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "{{'OnlineNotifications_HM' | translate }}",
-  "url": "https://uppsc.up.nic.in/CandidatePages/Notifications.aspx",
-  "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "{{'ExaminationOnly_HM' | translate }}",
-  "url": "https://uppsc.up.nic.in/PublicPages/Recruitment_Details.aspx?ID=EO",
-  "source": "UPPSC",
   "date": "2026-10-09"
  }
 ]
