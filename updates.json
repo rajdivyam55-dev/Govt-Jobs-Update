@@ -1,5 +1,41 @@
 [
  {
+  "title": "MOOCs Swayam Examination",
+  "url": "https://nta.ac.in/Swayamexam",
+  "source": "NTA",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "Press Release regarding Combined Civil Services Main Examination Uploaded date:-09-07-2026",
+  "url": "https://jpsc.gov.in/data/Press_Release_01_26_dated_09_07_2026.pdf",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "Press releaseregarding Combined Civil Services Main Examination Advt.No.01/2026 uploaded date :14-07-2026",
+  "url": "https://jpsc.gov.in/data/Press_Release_01_26_dated_14_07_2026.pdf",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "The Jharkhand Examination (Measures Control and Prevention of Unfair Means in Recruitment) Act, 2023(Jharkhand Act, 15,2023) uploaded date :29-11-2023",
+  "url": "https://jpsc.gov.in/data/jharkhand%20gazette_29_11_2023.pdf",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "Press Release regarding Email ID for general queries recruitment & legal matters uploaded Date 18-12-2025",
+  "url": "https://jpsc.gov.in/data/Press_Release_dated_18_12_2025.pdf",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
+  "title": "Press release regarding Recruitment of Forest Range Officer and Assistant Conservator of Forest (Advt.No.-04/2024 and 03/2024) Dtd.10-08-2026",
+  "url": "https://jpsc.gov.in/data/Press_Release_03_24_dated_10_08_2026.pdf",
+  "source": "JPSC",
+  "date": "2026-11-26"
+ },
+ {
   "title": "SBI Recruitment Of Specialist Cadre Officers on Regular Basis Registration From 20-Nov-2026",
   "url": "https://ibpsreg.ibps.in/sbifteoct26/",
   "source": "IBPS",
@@ -1161,42 +1197,6 @@
   "title": "{{'ExaminationOnly_HM' | translate }}",
   "url": "https://uppsc.up.nic.in/PublicPages/Recruitment_Details.aspx?ID=EO",
   "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "{{'ExaminationAndInterviewOnly_HM' | translate }}",
-  "url": "https://uppsc.up.nic.in/PublicPages/Recruitment_Details.aspx?ID=EI",
-  "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "{{'PreExamMainExamInt_HM' | translate }}",
-  "url": "https://uppsc.up.nic.in/PublicPages/Recruitment_Details.aspx?ID=EIM",
-  "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "RESULT OF ADVT. NO. D-4/E-1/2025, UTTAR PRADESH AYUSH (AYURVEDA) DEPARTMENT, PRO..",
-  "url": "https://uppsc.up.nic.in/Open_PDF_DB.aspx?I4PnQ0tBagmbO3OUZentgoSSgw34Mkau",
-  "source": "UPPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "Previous Exam Question Paper(s)",
-  "url": "https://jpsc.gov.in/sam_question_paper.php",
-  "source": "JPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "Recent Examinations/Interview",
-  "url": "https://jpsc.gov.in/Examination-Links.php",
-  "source": "JPSC",
-  "date": "2026-10-09"
- },
- {
-  "title": "Examination Calendar-2026",
-  "url": "https://jpsc.gov.in/data/Exam_Calendar_2026_dtd_09_07_2026.pdf",
-  "source": "JPSC",
   "date": "2026-10-09"
  }
 ]
